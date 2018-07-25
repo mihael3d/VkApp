@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">StartAndroidVK</string>
+    <integer name="com_vk_sdk_AppId">6628140</integer>
+</resources>
